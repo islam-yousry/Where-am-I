@@ -1,0 +1,32 @@
+.polaroid {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 25px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 300px;
+}
+
+.text {
+    text-align: center;
+    background-color: #4CAF50;
+    color: white;
+    font-size: 30px;
+    padding: 16px;
+    margin-bottom: auto;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px red;
+    color: black;
+    margin-bottom: 30px;
+}
